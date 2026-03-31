@@ -16,6 +16,6 @@ spec:
       - name: hello
         image: hashicorp/http-echo
         args:
-        - "-text=Hello from ArgoCD 🚀"
+        - "-text=Hello from ArgoCD1 🚀"
         ports:
         - containerPort: 5678
